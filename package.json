@@ -12,7 +12,7 @@
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "dependencies": {
-    "@vivjs/constants": "workspace:*",
-    "math.gl": "^3.5.7"
+    "math.gl": "^3.5.7",
+    "@vivjs/constants": "git+https://github.com/develrocket/hdms-viv-constants.git"
   }
 }
